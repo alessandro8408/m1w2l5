@@ -1,0 +1,8 @@
+Inizialmente viene chiesto di scegliere tra:
+1) moltiplicare 2 numeri
+2) dividere 2 numeri (il primo per il secondo)
+3) inserire una stringa
+
+Se l'utente sceglie di moltiplicare due numeri, si vuole calcolare il prodotto tra due numeri interi.
+Se l'utente sceglie di dividere due numeri, si chiede prima di inserire il numeratore e	poi il denominatore. Si calcola poi numeratore % denumeratore (ma visto il nome della funzione utilizzato suppongo si volesse calcolare il rapporto tra il primo e il secondo).
+Se l'utente sceglie di inserire una stringa viene richiesto di inserire una stringa. Non viene poi elaborata in alcun modo.
